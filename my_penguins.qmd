@@ -16,5 +16,5 @@ bill_species <- penguins |>
   )
 bill_species
 
-bill_species |>  ggplot(aes(x = species, y = mean_bill_length, fill = species)) + geom_col()
+
 ```
